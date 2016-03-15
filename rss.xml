@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[muddyjunction]]></title>
+        <description><![CDATA[muddyjunction]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 04:35:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Of Snakes and Ladders, and Dance]]></title>
+            <description><![CDATA[<article><h1>Of Snakes and Ladders, and Dance</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ccd6bf6ed4c77d697faacf33db02b5dd5c2e43a.png"></article>]]></description>
+            <link>undefinedof-snakes-and-ladders-and-dance/index.html</link>
+            <guid isPermaLink="false">09809990-87bd-4e03-b0d7-79382e208f5e</guid>
+            <pubDate>Tue, 15 Mar 2016 04:35:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
