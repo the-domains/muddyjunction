@@ -1,0 +1,28 @@
+name: muddyjunction
+favicon: null
+layout_spectrum: 0.6317649206612259
+typography_spectrum: 0.7555950875394046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.366248078411445
+  lightness: 0.5413116135168821
+  saturation: 0.8396810488775373
+  rhythmicContrast: 0.5054608532227576
+purpose: []
