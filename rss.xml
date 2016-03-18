@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[muddyjunction]]></title>
         <description><![CDATA[muddyjunction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/muddyjunction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 04:35:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 07:25:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/muddyjunction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Of Snakes and Ladders, and Dance]]></title>
-            <description><![CDATA[<article><h1>Of Snakes and Ladders, and Dance</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ccd6bf6ed4c77d697faacf33db02b5dd5c2e43a.png"></article>]]></description>
-            <link>undefinedof-snakes-and-ladders-and-dance/index.html</link>
+            <description><![CDATA[<article><h1>Of Snakes and Ladders, and Dance</h1><p>There was a time when kids used to spend their free time playing board games. Sometimes it was a whole family affair; at other times it was when friends came over on a lazy Sunday afternoon. It even used to be part of one’s repertoire of packed time-fillers when the family traveled. Games ranged from the four-cornered Ludo (didn’t everyone have their own favourite colours to start from?) to the strategic Battleship (particularly enjoyed the battery-operated version, complete with missile launch and explosion sounds) to the whodunits like Cluedo, and the empire-building Monopoly. I must say that the most complex board game I have ever played (once) was Poleconomy, a Monopoly-like game that swapped companies for properties and had a parallel political and capitalist actions. There was one particular game though which more often than not introduced kids to the whole concept of board games; it was none other thanSnake and Ladders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ccd6bf6ed4c77d697faacf33db02b5dd5c2e43a.png"></article>]]></description>
+            <link>https://thegrid.ai/muddyjunction/of-snakes-and-ladders-and-dance/index.html</link>
             <guid isPermaLink="false">09809990-87bd-4e03-b0d7-79382e208f5e</guid>
             <pubDate>Tue, 15 Mar 2016 04:35:59 GMT</pubDate>
         </item>
